@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Naruto",
+        "author": "Masashi Kishimoto",
+        "description": "A young ninja strives to become Hokage.",
+        "cover_image": "https://example.com/naruto.jpg",
+        "chapters": [
+            { "chapter_number": 1, "pages": ["https://example.com/naruto-1.jpg"] }
+        ]
+    }
+]
