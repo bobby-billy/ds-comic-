@@ -1,6 +1,6 @@
 const auth0Client = new Auth0Client({
-    domain: "your-auth0-domain",
-    client_id: "your-auth0-client-id",
+    domain: "dev-sj0g1qcodfko6gg1.ca.auth0.com",
+    client_id: "GqsSQ4mVPafWGmnx8PPU1We7OLnUm89Q",
     redirect_uri: window.location.origin
 });
 
